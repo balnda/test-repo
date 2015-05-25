@@ -1,0 +1,2 @@
+new file to branch 1
+some changes done to branch 2
